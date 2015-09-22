@@ -1,0 +1,31 @@
+{
+  "name": "jstransformer-j140",
+  "version": "1.0.0",
+  "description": "j140 support for JSTransformers",
+  "keywords": [
+    "engine",
+    "es",
+    "j",
+    "jstransformer",
+    "minimal",
+    "simple",
+    "small",
+    "template"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "test-jstransformer": "^1.0.0"
+  },
+  "scripts": {
+    "coverage": "test-jstransformer coverage",
+    "test": "test-jstransformer"
+  },
+  "repository": "tunnckoCore/jstransformer-j140",
+  "author": "JSTransformers Team (https://github.com/orgs/jstransformers/people)",
+  "license": "MIT",
+  "dependencies": {
+    "j140": "^2.0.0"
+  }
+}
