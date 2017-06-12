@@ -3,7 +3,7 @@
     "j140": "^2.0.0"
   },
   "name": "jstransformer-j140",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "j140 support for JSTransformers.",
   "keywords": [
     "jstransformer"
