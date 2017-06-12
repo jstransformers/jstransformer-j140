@@ -1,4 +1,7 @@
 {
+  "dependencies": {
+    "j140": "^2.0.0"
+  },
   "name": "jstransformer-j140",
   "version": "1.0.0",
   "description": "j140 support for JSTransformers.",
@@ -8,11 +11,9 @@
   "files": [
     "index.js"
   ],
-  "dependencies": {
-    "j140": "^2.0.0"
-  },
   "devDependencies": {
-    "test-jstransformer": "^1.0.0"
+    "test-jstransformer": "^1.0.0",
+    "xo": "*"
   },
   "scripts": {
     "coverage": "test-jstransformer coverage",

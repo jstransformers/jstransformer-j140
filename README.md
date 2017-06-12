@@ -3,8 +3,9 @@
 [j140](https://github.com/tunnckoCore/j140) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-j140/master.svg)](https://travis-ci.org/jstransformers/jstransformer-j140)
-[![Coverage Status](https://img.shields.io/coveralls/jstransformers/jstransformer-j140/master.svg)](https://coveralls.io/r/jstransformers/jstransformer-j140?branch=master)
+[![Coverage Status](https://img.shields.io/codecov/c/github/jstransformers/jstransformer-j140/master.svg)](https://codecov.io/gh/jstransformers/jstransformer-j140)
 [![Dependency Status](https://img.shields.io/david/jstransformers/jstransformer-j140/master.svg)](http://david-dm.org/jstransformers/jstransformer-j140)
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-j140.svg)](https://greenkeeper.io/)
 [![NPM version](https://img.shields.io/npm/v/jstransformer-j140.svg)](https://www.npmjs.org/package/jstransformer-j140)
 
 ## Installation
