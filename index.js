@@ -1,8 +1,8 @@
-'use strict';
+'use strict'
 
-var j140 = require('j140');
+const j140 = require('j140')
 
-exports.name = 'j140';
-exports.outputFormat = 'html';
+exports.name = 'j140'
+exports.outputFormat = 'html'
 
-exports.compile = j140.compile;
+exports.compile = j140.compile
