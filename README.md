@@ -15,14 +15,14 @@
 ## API
 
 ```js
-var engine = require('jstransformer')(require('jstransformer-j140'));
+var engine = require('jstransformer')(require('jstransformer-j140'))
 
 var locals = {
   place: 'world',
   user: {
     name: 'Charlike'
   }
-};
+}
 
 engine.render('Hello #{place} and #{user.name}!', locals).body
 //=> 'Hello world and Charlike!'
